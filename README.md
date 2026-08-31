@@ -1,7 +1,7 @@
 # Car Market Trends Analysis with Car Dekho Data
 
-DIY Project 4 - Data Analytics
-1M1B AI for Sustainability Internship (IBM SkillsBuild & AICTE)
+DIY Project 4 - Data Analytics 
+VOIS & Vodafone Idea Foundation Data Analytics Internship (via Edunet Foundation, VOIS for Tech LMS)
 
 ## Overview
 Exploratory data analysis of a used-car listings dataset (Car Dekho) to understand
@@ -21,7 +21,7 @@ Seller_Type, Transmission, Owner
    dataset but excluded from the km-driven chart to avoid distortion
 
 ## Key Findings
-- Diesel cars sell for ~3x the price of Petrol/CNG cars on average
+- Diesel cars sell for 3x the price of Petrol/CNG cars on average
 - Manual transmission dominates the listings (260 vs 39 automatic)
 - Selling price correlates strongly with present (ex-showroom) price (r = 0.876)
 - Selling price weakly decreases with car age (r = -0.234)
