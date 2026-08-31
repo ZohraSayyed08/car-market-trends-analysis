@@ -1,6 +1,6 @@
 """
 Car Market Trends Analysis - Car Dekho Dataset
-1M1B AI for Sustainability Internship - DIY Project 4
+ VOIS & Vodafone Idea Foundation Data Analytics Internship- DIY Project 4
 """
 import pandas as pd
 import matplotlib.pyplot as plt
